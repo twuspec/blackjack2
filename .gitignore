@@ -27,7 +27,6 @@ obj/**
 .pytest_cache
 tmp/**
 .python-version
-.vscode/
 .vs/
 test-results.xml
 !build/
